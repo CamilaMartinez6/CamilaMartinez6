@@ -1,7 +1,7 @@
 
 # ![BANNER](banner1.png)
 
-## Welcome to my Git Hub profile! <img src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZtbHhtY2FtajJlMndtMGtsMjY1M3U2OGN5Y21qYjhqNWVhM2c1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26u47cfpvueq9Mmys/giphy.webp width=50>
+## Welcome to my GitHub profile! <img src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZtbHhtY2FtajJlMndtMGtsMjY1M3U2OGN5Y21qYjhqNWVhM2c1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26u47cfpvueq9Mmys/giphy.webp width=50>
 
 ### Skills ✔️
 ### <p align="left">
